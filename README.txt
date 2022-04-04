@@ -1,4 +1,4 @@
-What this project is about? You can get your answer from the power point in presentation folder and also the word file resource folder.
+What this project is about? You can get your answer from the power point in presentation folder and also the word file reference folder.
 
 For running this R project, you have first install the required R packages which are:
 1. tidyvers
