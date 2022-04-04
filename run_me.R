@@ -4,7 +4,9 @@ library(lubridate)
 library(janitor)
 
 #Import data
-#2018
+#note: These datasets were huge, if you want re-run this script, you must first download these dataset and put
+#under /input/data/2018/ folder, and also keep the file name same as thye are, then good to run.
+
 Q1_2018 <- read.csv("./input/data/2018/Divvy_Trips_2018_Q1.csv", stringsAsFactors = F) %>% clean_names() %>% 
   select(duration_sec = x01_rental_details_duration_in_seconds_uncapped, user_type,
          started_at = x01_rental_details_local_start_time, ended_at = x01_rental_details_local_end_time
