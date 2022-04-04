@@ -1,0 +1,11 @@
+Due to huge size of datasets, github was not allowing to upload them. So, I'm pasting the dataset links to be downloaded from and pasted right under this directory:
+
+link: divvy-tripdata.s3.amazonaws.com/index.html
+
+file names to be downloaded:
+Divvy_Trips_2018_Q1.zip
+Divvy_Trips_2018_Q2.zip
+Divvy_Trips_2018_Q3.zip
+Divvy_Trips_2018_Q4.zip
+
+Note: when you've downloaded all the files from above link, please unzip them and put the extracted .csv files under 2018 folder, then good to run the script.

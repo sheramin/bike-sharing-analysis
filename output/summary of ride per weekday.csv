@@ -1,0 +1,15 @@
+"user_type","day_of_week","n_value","len_min_mean"
+"Customer","Friday",82698,54.6408619313647
+"Customer","Monday",80471,60.4674106199749
+"Customer","Saturday",161416,57.1023070823215
+"Customer","Sunday",145309,64.2993207578333
+"Customer","Thursday",71258,55.6327008897247
+"Customer","Tuesday",64499,59.9897672832137
+"Customer","Wednesday",71487,52.339614195588
+"Subscriber","Friday",442977,13.6112078053714
+"Subscriber","Monday",448096,13.0822970970506
+"Subscriber","Saturday",283964,15.9508670113113
+"Subscriber","Sunday",260581,16.0991553490086
+"Subscriber","Thursday",491383,12.6683910513795
+"Subscriber","Tuesday",494082,13.1215749612413
+"Subscriber","Wednesday",504836,13.7864573841802
